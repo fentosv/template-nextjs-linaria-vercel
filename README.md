@@ -1,6 +1,6 @@
 # NextJS template with Github and Vercel sync
 
-_This template allows you to create a NextJS project with Linaria module addedy, and easily deploy it on GitHub and Vercel._
+_This template allows you to create a NextJS project with Linaria module added, and easily deploy it on GitHub and Vercel._
 
 ## Table of contents
 * [Features](#features-)
